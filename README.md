@@ -127,6 +127,7 @@ Digital-Farmer-Market/
 │
 └── README.md
 `​``
+---
 
 ## ⚙️ Environment Variables
 
@@ -138,6 +139,7 @@ MONGODB_URI=mongodb://localhost:27017/farm2home
 JWT_SECRET=your_jwt_secret
 FRONTEND_URL=http://localhost:5173
 ```
+---
 
 ## ▶️ How to Run the Project Locally
 
@@ -154,6 +156,7 @@ cd Farm2Home-main/frontend
 npm install
 npm run dev
 ```
+---
 
 🌐 Application URLs
 
