@@ -190,8 +190,10 @@ Escrow-based auction settlement completed
 
 Ready for deployment and further enhancements
 
-👨‍💻 Author
-Om Pandey
+## 👨‍🎓 Author
+**Om Pandey**  
+Computer Science Student  
+Lovely Professional University, Punjab
 
 
 
