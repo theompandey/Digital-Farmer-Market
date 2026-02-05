@@ -1,3 +1,7 @@
+## 🚀 Live Demo: https://digital-farmer-market.vercel.app/
+👉 Click here to view the deployed project
+
+
 # Digital Farmer Market (Farm2Home)
 
 A full-stack MERN application that connects farmers directly with consumers through product listings and live auctions, powered by a secure wallet and escrow-based settlement system.
